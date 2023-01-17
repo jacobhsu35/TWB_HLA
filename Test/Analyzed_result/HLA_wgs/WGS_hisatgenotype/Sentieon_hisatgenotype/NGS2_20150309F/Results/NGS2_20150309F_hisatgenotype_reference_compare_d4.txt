@@ -1,0 +1,16 @@
+hisatgenotype(NGS2_20150309F)
+Haplotype 1: A-02:07
+Haplotype 2: A-24:02
+Haplotype 2: B-46:01
+Haplotype 1: C-01:02
+Haplotype 2: C-07:02
+Haplotype 1: DPA1-01:03
+Haplotype 2: DPA1-02:02
+Haplotype 1: DPB1-02:01
+Haplotype 2: DPB1-02:02
+Haplotype 1: DQA1-01:03
+Haplotype 2: DQA1-04:01
+Haplotype 1: DQB1-04:02
+Haplotype 2: DQB1-06:01
+Haplotype 1: DRB1-08:02
+Haplotype 2: DRB1-08:03

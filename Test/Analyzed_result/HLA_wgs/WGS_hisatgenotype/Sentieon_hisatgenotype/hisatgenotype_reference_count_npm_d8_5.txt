@@ -1,0 +1,36 @@
+sample	gene	hisatgenotype	reference	note
+NGS2_20150204C	HLA-B	Non field match	Non field match
+NGS2_20150204C	HLA-C	Non field match	Non field match
+NGS2_20150204C	HLA-DPA1	Non field match	Field match
+NGS2_20150204C	HLA-DPB1	Non field match	Field match
+NGS2_20150204C	HLA-DQA1	Non field match	Non field match
+NGS2_20150204C	HLA-DRB1	Non field match	Field match
+NGS2_20150302A	HLA-B	Non field match	Non field match
+NGS2_20150302A	HLA-C	Non field match	Field match
+NGS2_20150302A	HLA-DPA1	Non field match	Field match
+NGS2_20150302A	HLA-DPB1	Non field match	Field match
+NGS2_20150302A	HLA-DQA1	Non field match	Field match
+NGS2_20150302A	HLA-DRB1	Non field match	Field match
+NGS2_20150303E	HLA-A	Non field match	Field match
+NGS2_20150303E	HLA-B	Non field match	Non field match
+NGS2_20150303E	HLA-C	Non field match	Field match
+NGS2_20150303E	HLA-DPA1	One	One	Non perfect match (One allele)
+NGS2_20150303E	HLA-DPB1	Non field match	Non field match
+NGS2_20150303E	HLA-DQA1	Non field match	Field match
+NGS2_20150303E	HLA-DQB1	Non field match	Field match
+NGS2_20150303E	HLA-DRB1	Non field match	Field match
+NGS2_20150309F	HLA-A	Non field match	Non field match
+NGS2_20150309F	HLA-B	Non field match	Non field match
+NGS2_20150309F	HLA-C	Non field match	Field match
+NGS2_20150309F	HLA-DPA1	Non field match	Field match
+NGS2_20150309F	HLA-DPB1	Non field match	Field match
+NGS2_20150309F	HLA-DQA1	Non field match	Field match
+NGS2_20150309F	HLA-DQB1	Non field match	Field match
+NGS2_20150309F	HLA-DRB1	Non field match	Field match
+NGS2_20150501D	HLA-B	Non field match	Non field match
+NGS2_20150501D	HLA-C	Non field match	Field match
+NGS2_20150501D	HLA-DPA1	Non field match	Field match
+NGS2_20150501D	HLA-DPB1	Non field match	Field match
+NGS2_20150501D	HLA-DQA1	Non field match	Non field match
+NGS2_20150501D	HLA-DQB1	One	One	Non perfect match (One allele)
+NGS2_20150501D	HLA-DRB1	Non field match	Field match

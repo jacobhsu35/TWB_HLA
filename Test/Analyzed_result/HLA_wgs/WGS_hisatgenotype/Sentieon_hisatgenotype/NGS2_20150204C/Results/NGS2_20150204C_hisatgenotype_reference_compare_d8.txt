@@ -1,0 +1,11 @@
+hisatgenotype(NGS2_20150204C)
+Haplotype 1: A-11:01:01:01
+Haplotype 2: A-24:02:01:01
+B: non field match to non field match
+C: non field match to non field match
+DPA1: non field match to field match
+DPB1: non field match to field match
+DQA1: non field match to non field match
+Haplotype 1: DQB1-03:02:01:01
+Haplotype 2: DQB1-05:03:01:02
+DRB1: non field match to field match

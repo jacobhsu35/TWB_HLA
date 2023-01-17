@@ -1,0 +1,9 @@
+hisatgenotype(NGS2_20150309F)
+A: non field match to non field match
+B: non field match to non field match
+C: non field match to field match
+DPA1: non field match to field match
+DPB1: non field match to field match
+DQA1: non field match to field match
+DQB1: non field match to field match
+DRB1: non field match to field match

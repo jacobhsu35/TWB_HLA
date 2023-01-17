@@ -1,0 +1,6 @@
+sample	gene	hisatgenotype	reference	note
+NGS2_20150204C	HLA-C	One	One	Non perfect match (One allele)
+NGS2_20150303E	HLA-A	One	One	Non perfect match (One allele)
+NGS2_20150303E	HLA-DPB1	One	One	Non perfect match (One allele)
+NGS2_20150309F	HLA-B	One	One	Non perfect match (One allele)
+NGS2_20150501D	HLA-DPB1	One	One	Non perfect match(Two alleles)
