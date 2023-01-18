@@ -1,8 +1,12 @@
 #!/usr/bin/bash
-Output=${1}
-Sample=$(cd `dirname $0`; cd .. ; pwd)/Lists/${2}.txt
+data_type_1=${1}
+data_type_2=${2}
+preprocess_tool_1=${3}
+preprocess_tool_2=${4}
+Output=${5}
+Sample=$(cd `dirname $0`; cd .. ; pwd)/Lists/${6}.txt
 Gene=$(cd `dirname $0`; cd .. ; pwd)/Lists/gene_list.txt
-sample_number=${3}
+sample_number=${7}
 input_pm_txt=$(cd `dirname $0`; cd .. ; pwd)/Lists/hisatgenotype_pm_pool_d4_879.txt
 input_npm_txt=$(cd `dirname $0`; cd .. ; pwd)/Lists/hisatgenotype_npm_pool_d4_879.txt
 
@@ -31,8 +35,8 @@ c4=0
 while read line_1;
 	do
 
-		H=${Output}/WGS_hisatgenotype/Sentieon_hisatgenotype/${line_1}/Results/${line_1}_hisatgenotype_result_d4.txt
-		V=${Output}/WGS_hlavbseq/Sentieon_hlavbseq/${line_1}/Results/${line_1}_hlavbseq_result_d4.txt
+		H=${Output}/${data_type_1}_hisatgenotype/${preprocess_tool_1}_hisatgenotype/${line_1}/Results/${line_1}_hisatgenotype_result_d4.txt
+		V=${Output}/${data_type_2}_hlavbseq/${preprocess_tool_2}_hlavbseq/${line_1}/Results/${line_1}_hlavbseq_result_d4.txt
 
 		V_H1=$(sort $V |grep ^C | head -n 1)
 		V_H2=$(sort $V |grep ^C | head | tail -n 1)
