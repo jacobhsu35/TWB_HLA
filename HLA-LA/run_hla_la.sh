@@ -1,13 +1,13 @@
 #!/usr/bin/bash
 # SLURM job script (please modify or remove if not)
 #SBATCH -A MST109178        # Account name/project number
-#SBATCH -J AA024_L_wgs_sentieon         # Job name
+#SBATCH -J AA024_L_wgs_sentieon         # Job name # please modify 'AA024'
 #SBATCH -p ngs92G           # Partition Name 等同PBS裡面的 -q Queue name
 #SBATCH -c 14               # 使用的core數 請參考Queue資源設定
 #SBATCH --mem=92g           # 使用的記憶體量 請參考Queue資源設定
-#SBATCH -o /staging/reserve/paylong_ntu/AI_SHARE/temp/HLA_temp/YX/HLA_wgs/Err_msg/AA024_wgs_sentieon_hlala_hla.out          # Path to the standard output file
-#SBATCH -e /staging/reserve/paylong_ntu/AI_SHARE/temp/HLA_temp/YX/HLA_wgs/Err_msg/AA024_wgs_sentieon_hlala_hla.err          # Path to the standard error ouput file
-#SBATCH --mail-user=r09455002@g.ntu.edu.tw    # email
+#SBATCH -o /staging/reserve/paylong_ntu/AI_SHARE/temp/HLA_temp/YX/HLA_wgs/Err_msg/AA024_wgs_sentieon_hlala_hla.out          # Path to the standard output file # please modify '/staging/reserve/paylong_ntu/AI_SHARE/temp/HLA_temp/YX' and 'AA024'
+#SBATCH -e /staging/reserve/paylong_ntu/AI_SHARE/temp/HLA_temp/YX/HLA_wgs/Err_msg/AA024_wgs_sentieon_hlala_hla.err          # Path to the standard error ouput file # please modify '/staging/reserve/paylong_ntu/AI_SHARE/temp/HLA_temp/YX' and 'AA024'
+#SBATCH --mail-user=@g.ntu.edu.tw    # email # please modify
 #SBATCH --mail-type=END
 
 # Tool path (please modify)
