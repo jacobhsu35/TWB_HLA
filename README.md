@@ -1,4 +1,4 @@
-## HLA_pipeline
+## WGS HLA pipeline
 #### Software dependencies
 The HLA pipeline includes [HISAT2](https://daehwankimlab.github.io/hisat2/)/[HISAT-genotype](https://daehwankimlab.github.io/hisat-genotype/), [HLA-VBSeq](http://nagasakilab.csml.org/hla/), [Kourami](https://github.com/Kingsford-Group/kourami), and [HLA\*LA](https://github.com/DiltheyLab/HLA-LA)
 
